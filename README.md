@@ -13,7 +13,9 @@ BudgetManagementSystem/
 ├── autotag.py             # Auto-tagging logic for transaction categories
 ├── utils.py               # Utility functions (CSV export, etc)
 ├── requirements.txt       # Python dependencies
-├── data.json              # Local data storage (auto-created)
+├── main.spec              # PyInstaller build specification
+├── .gitignore             # Git ignore rules
+├── data.json              # Local data storage (auto-created, ignored in git)
 └── README.md              # Project documentation
 ```
 

@@ -58,7 +58,7 @@ BudgetManagementSystem/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/impranzal/budget-management-system-.git
+   git clone https://github.com/impranzal/budget-management-system.git
    cd budget-management-system
    ```
 
